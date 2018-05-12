@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
     - http://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46279#Los-Merodeadores-de-Fronteras
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
 identifiers:
